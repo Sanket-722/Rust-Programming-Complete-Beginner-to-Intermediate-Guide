@@ -20,8 +20,8 @@ A clear and practical guide to Rust fundamentals — from variables and ownershi
 - [8. Common Collections](#8%EF%B8%8F%E2%83%A3-common-collections)
 - [9. Error Handling](#9%EF%B8%8F%E2%83%A3-error-handling)
 - [10. Generics & Traits](#-generics--traits)
-- [11. Lifetimes](#-lifetimes)
-- [12. Testing in Rust](#-testing-in-rust)
+- [11. Lifetimes](#1%EF%B8%8F%E2%83%A31%EF%B8%8F%E2%83%A3-lifetimes)
+- [12. Testing in Rust](#1%EF%B8%8F%E2%83%A32%EF%B8%8F%E2%83%A3-testing-in-rust)
 - [🎯 Final Notes & Resources](#-final-notes--resources)
 
 ---

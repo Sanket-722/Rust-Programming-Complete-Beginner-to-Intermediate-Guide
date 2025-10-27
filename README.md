@@ -19,9 +19,9 @@ A clear and practical guide to Rust fundamentals — from variables and ownershi
 - [7. Modules, Packages & Crates](#7%EF%B8%8F%E2%83%A3-modules-packages--crates)
 - [8. Common Collections](#8%EF%B8%8F%E2%83%A3-common-collections)
 - [9. Error Handling](#9%EF%B8%8F%E2%83%A3-error-handling)
-- [10. Generics & Traits](#10-generics--traits)
-- [11. Lifetimes](#11-lifetimes)
-- [12. Testing in Rust](#12-testing-in-rust)
+- [10. Generics & Traits](#-generics--traits)
+- [11. Lifetimes](#-lifetimes)
+- [12. Testing in Rust](#-testing-in-rust)
 - [🎯 Final Notes & Resources](#-final-notes--resources)
 
 ---

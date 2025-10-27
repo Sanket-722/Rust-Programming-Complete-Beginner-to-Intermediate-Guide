@@ -10,7 +10,7 @@ A clear and practical guide to Rust fundamentals — from variables and ownershi
 
 ## 📚 Table of Contents
 
-- [1. Cargo Installation](#1-cargo-installation)
+- [1. Cargo Installation](#1%EF%B8%8F%E2%83%A3-cargo-installation)
 - [2. Variables](#2-variables)
 - [3. Data Types](#3-data-types)
 - [4. Ownership & Borrowing](#4-ownership--borrowing)

@@ -424,7 +424,7 @@ cargo test
 ```
 Tip: Left/right order in assert_eq! is not enforced, but be consistent: use (actual, expected) for clarity.
 
-🎯 Final Notes & Resources
+## 🎯 Final Notes & Resources
 
 ✅ Run cargo fmt and cargo clippy before committing code.
 ✅ Avoid unwrap() and expect() on dynamic input.

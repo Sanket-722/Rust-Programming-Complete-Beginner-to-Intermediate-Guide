@@ -4,7 +4,11 @@
 **Edition:** Rust 2021  
 **Tested with:** `rustc 1.78.0 (stable)`  
 
-A clear and practical guide to Rust fundamentals — from variables and ownership to lifetimes and error handling — with real code examples and explanations.
+> 📝 **Note from Sanket:**  
+> These are the notes I originally made while learning Rust programming.  
+> You can check out my first version here: [Rust Programming — Notion Notes](https://tartan-sphynx-e6c.notion.site/Rust-Programming-10e32d3599b28093bd59d1c432726609).  
+> I later refined, reorganized, and expanded them into this version so that others can learn from it too.  
+> I hope it helps someone the same way it helped me while studying.
 
 ---
 
@@ -426,19 +430,20 @@ Tip: Left/right order in assert_eq! is not enforced, but be consistent: use (act
 
 ## 🎯 Final Notes & Resources
 
-✅ Run cargo fmt and cargo clippy before committing code.
-✅ Avoid unwrap() and expect() on dynamic input.
-✅ Prefer Result + ? for error propagation.
-✅ Use #[derive(Debug)] for better print debugging.
+✅ Run `cargo fmt` and `cargo clippy` before committing code.  
+✅ Avoid using `unwrap()` and `expect()` on dynamic input.  
+✅ Prefer `Result` + `?` for error propagation.  
+✅ Use `#[derive(Debug)]` for easier debugging and cleaner print outputs.
 
-⸻
+---
 
-🧭 Bonus Learning Resources
-	•	📘 The Rust Programming Language (Official Book)
-	•	🦀 Rust By Example
-	•	💡 Rust Playground
-	•	🔍 Clippy Lints
+### 🧭 Bonus Learning Resources
 
-⸻
+- 📘 [The Rust Programming Language (Official Book)](https://doc.rust-lang.org/book/)
+- 🦀 [Rust By Example](https://doc.rust-lang.org/rust-by-example/)
+- 💡 [Rust Playground](https://play.rust-lang.org/)
+- 🔍 [Clippy Lints](https://rust-lang.github.io/rust-clippy/)
 
-🦀 Built with ❤️ by 0xRayaa — Happy Rusting!
+---
+
+🦀 **Built with ❤️ by [0xRayaa](https://github.com/0xRayaa) — Happy Rusting!**

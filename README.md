@@ -1,10 +1,10 @@
 # 🦀 Rust Programming — Complete Beginner to Intermediate Guide
 
-**Author:** Sanket  
+**Author:** 0xRayaa  
 **Edition:** Rust 2021  
 **Tested with:** `rustc 1.78.0 (stable)`  
 
-> 📝 **Note from Sanket:**  
+> 📝 **Note from 0xRayaa :**  
 > These are the notes I originally made while learning Rust programming.  
 > You can check out my first version here: [Rust Programming — Notion Notes](https://tartan-sphynx-e6c.notion.site/Rust-Programming-10e32d3599b28093bd59d1c432726609).  
 > I later refined, reorganized, and expanded them into this version so that others can learn from it too.  

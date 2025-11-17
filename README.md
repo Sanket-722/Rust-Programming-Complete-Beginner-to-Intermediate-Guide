@@ -69,12 +69,12 @@ const MAX_POINTS: u32 = 100_000;
 Scalar Types (single values)
 
 ```markdown
-| Type      | Default | Example          | Notes                |
-|-----------|---------|------------------|----------------------|
+| Type      | Default | Example          | Notes                    |
+|-----------|---------|------------------|--------------------------|
 | Integer   | i32     | let x = 42;      | Signed 32-bit by default |
-| Float     | f64     | let pi = 3.14;   | 64-bit precision     |
-| Boolean   | bool    | let t = true;    | Logical true/false   |
-| Character | char    | let c = '🦀';    | Unicode scalar       |
+| Float     | f64     | let pi = 3.14;   | 64-bit precision         |
+| Boolean   | bool    | let t = true;    | Logical true/false   	|
+| Character | char    | let c = '🦀';    | Unicode scalar       	|
 ```
 Integer Overflow
 	•	Debug mode: causes panic on overflow.
